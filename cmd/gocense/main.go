@@ -15,6 +15,8 @@ func main() {
 	if err != nil {
 		println(err.Error())
 	}
+
+	for 
 }
 
 func printDeps(deps []depth.Pkg) {
